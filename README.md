@@ -1,16 +1,18 @@
-# Example Company Website
+![](https://github.com/sitamadex11/CovidHelp/blob/develop/Assets/HackOctoberFestBanner.png)
+![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-23-green)
+![Maximum API Level](https://img.shields.io/badge/Max%20API%20Level-30-orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/sitamadex11/CovidHelp)
+[![License](https://img.shields.io/badge/license-MIT-%2397ca00.svg)](https://github.com/sitamadex11/CovidHelp/blob/develop/LICENSE)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) 
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
-![The project's screenshot.](ss/ss1.png)
+# Company_website_templete
+Basic company website template designed  using bootstap,HTML,CSS and JS.
+Best for Beginner.
 
-This is full-stack application that uses [this html template](https://github.com/19XLR95/example-company-website-template-1).
 
-It is responsive and has i18n (EN & TR) support. *Services* page doesn't work, you should set database config in *.env* file. The project have built with PHP and [Laravel](https://laravel.com/).
+ WEBSITE SCREENSHOT
 
-To run the project:
-Copy *.env.example* file in the same location and rename it as *.env* then run the following commands.
-```
-composer install
-php artisan key:generate
-php artisan serve
-```
-To send email via *contact* page you should set mail config in *.env* file.
+![image](https://user-images.githubusercontent.com/72190187/124345953-b2522680-dbf9-11eb-8cc7-05ff615abdf2.png)
